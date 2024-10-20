@@ -57,3 +57,5 @@ These formulas helped in preparing and organizing the data for a seamless integr
 
 3) Analyze the top 5 customers section to identify key contributors to the business.
 
+![Coffee Sales Dashboard]("C:\Users\hs103\OneDrive\Desktop\Pythor class notes\project1\Coffee_sales_dashboard.png")
+

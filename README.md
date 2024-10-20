@@ -15,8 +15,11 @@ This project presents a **Coffee Sales Dashboard** built to analyze sales data f
 **Top 5 Customers:** Highlights the top-performing customers based on sales volume.
 
 **Slicers for Enhanced Filtering:**
+
                         **Roast Type:** Filter sales by the type of coffee roast (e.g., light, medium, dark).
+                        
                         **Loyalty Card:** Filter data based on whether customers use a loyalty card (Yes/No).
+                        
                         **Size:** Filter by coffee size (Light, medium, Dark).
 **Formulas Used**
 

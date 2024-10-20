@@ -4,6 +4,7 @@
 
 This project presents a **Coffee Sales Dashboard** built to analyze sales data from 2019 to 2022. The dashboard provides insights into coffee sales trends, customer behavior, and geographic performance. It was designed to help stakeholders quickly visualize key sales metrics and make data-driven decision
 
+
 ## Features
 
 **Timeline View:** A monthly timeline showcasing coffee sales from 2019 to 2022.
@@ -16,11 +17,13 @@ This project presents a **Coffee Sales Dashboard** built to analyze sales data f
 
 **Slicers for Enhanced Filtering:**
 
-                        **Roast Type:** Filter sales by the type of coffee roast (e.g., light, medium, dark).
+**Roast Type:** Filter sales by the type of coffee roast (e.g., light, medium, dark).
                         
-                        **Loyalty Card:** Filter data based on whether customers use a loyalty card (Yes/No).
+**Loyalty Card:** Filter data based on whether customers use a loyalty card (Yes/No).
                         
-                        **Size:** Filter by coffee size (Light, medium, Dark).
+**Size:** Filter by coffee size (Light, medium, Dark).
+
+
 **Formulas Used**
 
 **IF:** Used to create conditional logic for data filtering and validation.
@@ -31,9 +34,11 @@ This project presents a **Coffee Sales Dashboard** built to analyze sales data f
 
 These formulas helped in preparing and organizing the data for a seamless integration with the dashboard tools.
 
+
 **Tools Used**
 
 **Microsoft Excel**
+
 
 **Insights & Analysis**
 
@@ -42,6 +47,7 @@ These formulas helped in preparing and organizing the data for a seamless integr
 **Geographic Trends:** Identify the countries with the highest coffee sales.
 
 **Customer Behavior:** Understand the top customers and the impact of loyalty programs.
+
 
 **How to Use the Dashboard**
 
